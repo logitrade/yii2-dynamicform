@@ -18,6 +18,7 @@ use Symfony\Component\DomCrawler\Crawler;
  *
  * @author Wanderson Bragança <wanderson.wbc@gmail.com>
  */
+
 class DynamicFormWidget extends \yii\base\Widget
 {
     const WIDGET_NAME = 'dynamicform';
